@@ -1,13 +1,14 @@
 {
-  "name": "react-json-editor-ajrm",
-  "version": "2.5.14",
-  "description": "A stylish, editor-like, modular, react component for viewing, editing, and debugging javascript object syntax!",
-  "author": "andrew.redican.mejia@gmail.com",
+  "name": "@monisamjad/react-json-editor-ajrm",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
   "license": "MIT",
-  "homepage": "https://github.com/AndrewRedican/react-json-editor-ajrm#readme",
+  "homepage": "https://github.com/monisamjad",
   "bugs": {
-    "url": "https://github.com/AndrewRedican/react-json-editor-ajrm/issues"
+    "url": "https://github.com/monisamjad/react-json-editor-ajrm/issues"
   },
+  "access": "public",
   "main": "index.js",
   "files": [
     "*"
@@ -117,8 +118,8 @@
     "fs-extra": "^7.0.0",
     "jest": "^26.4.2",
     "mitsuketa": "^1.4.3",
-    "react": ">=16.2.0",
-    "react-dom": ">=16.2.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
     "react-test-renderer": "^16.4.1",
     "rimraf": "^2.6.2"
   },

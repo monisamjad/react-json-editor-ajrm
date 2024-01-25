@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.1] - 2024-01-25
+
+-----
+
+**Old version changelogs**
+
+
 ## [2.5.13] - 2020-10-15
 ### Fix
 - Re-published project to fix import issue introduced on version `2.5.10`. @andrewredican

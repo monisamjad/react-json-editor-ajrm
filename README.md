@@ -1,3 +1,5 @@
+This package is fork from *react-json-editor-ajrm* and include bugs fixes which were left in the original version.
+
 **Warning:** 
 
 As you may already know, the react-json-editor-ajrm's orignal project is not actively maintained and that
