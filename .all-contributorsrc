@@ -175,6 +175,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "monisamjad",
+      "name": "Monis Amjad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7096501?v=4",
+      "profile": "https://github.com/monisamjad",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitConvention": "none"
